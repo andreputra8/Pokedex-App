@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import pokeball from "@/assets/pokeball.png";
+import pokeball from "@/assets/pokeball.webp";
 import { useTheme } from "@/utils/hooks/useTheme";
 
 const Header = () => {
@@ -14,6 +14,7 @@ const Header = () => {
             width="60"
             height="60"
             className="text-transparent cursor-pointer"
+            alt="pokedex-logo"
           />
         </Link>
         {theme === "light" ? (
