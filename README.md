@@ -1,3 +1,3 @@
 # pokedex
 
-link deploy: https://pokedex-bice-chi.vercel.app/
+link deploy: https://pokedex-app-phi-smoky.vercel.app/
